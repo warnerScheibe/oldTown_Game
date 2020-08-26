@@ -647,3 +647,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.26-02.52.17:548][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2020.08.26-02.52.17:550][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.08.26-02.52.17:653][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.26-02.59.36:305][901]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.08.26-02.59.41:107][308]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.08.26-02.59.41:149][308]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.26-02.59.54:251][614]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.26-03.00.35:486][951]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.08.26-03.00.46:504][825]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.08.26-03.01.04:284][311]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.08.26-03.01.09:389][722]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.08.26-03.01.09:479][722]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2020.08.26-03.01.09:560][722]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2020.08.26-03.01.09:718][722]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.08.26-03.01.25:112][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.08.26-03.01.27:413][ 49]LogSlate: Window 'Save Content' being destroyed
+[2020.08.26-03.01.27:749][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.08.26-03.01.27:834][ 49]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/oldTown_Game/OldTown/Saved/Minimal_Default1A043B9C4365FFB4204D7395CB83BBA1.tmp' to '../../../../../../Users/Warner/Desktop/oldTown_Game/OldTown/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.08.26-03.01.27:880][ 49]LogFileHelpers: Saving map 'Minimal_Default' took 0.149
+[2020.08.26-03.01.28:141][ 49]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/oldTown_Game/OldTown/Saved/Minimal_Default_BuiltDataB186ECD14D803234D6AE34AC71AB46CD.tmp' to '../../../../../../Users/Warner/Desktop/oldTown_Game/OldTown/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.08.26-03.01.28:156][ 49]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.26-03.01.28:156][ 49]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.08.26-03.01.28:156][ 49]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
