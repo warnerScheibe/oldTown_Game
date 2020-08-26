@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-proj.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Warner\Desktop\oldTown_Game\OldTown\Intermediate\Build\Win64\projEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Warner\Desktop\oldTown_Game\OldTown\Intermediate\Build\Win64\UE4Editor\Development\proj\proj.cpp.obj"
+"C:\Users\Warner\Desktop\oldTown_Game\OldTown\Intermediate\Build\Win64\UE4Editor\Development\proj\projGameModeBase.cpp.obj"
+"C:\Users\Warner\Desktop\oldTown_Game\OldTown\Intermediate\Build\Win64\UE4Editor\Development\proj\proj.init.gen.cpp.obj"
+"C:\Users\Warner\Desktop\oldTown_Game\OldTown\Intermediate\Build\Win64\UE4Editor\Development\proj\projGameModeBase.gen.cpp.obj"
+"C:\Users\Warner\Desktop\oldTown_Game\OldTown\Intermediate\Build\Win64\UE4Editor\Development\proj\Default.rc2.res"
+/OUT:"C:\Users\Warner\Desktop\oldTown_Game\OldTown\Intermediate\Build\Win64\UE4Editor\Development\proj\UE4Editor-proj.lib"
+/INCLUDE:IMPLEMENT_MODULE_proj

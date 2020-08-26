@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "proj",
+			"Path": "C:\\Users\\Warner\\Desktop\\oldTown_Game\\OldTown\\Source\\proj.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "projEditor",
+			"Path": "C:\\Users\\Warner\\Desktop\\oldTown_Game\\OldTown\\Source\\projEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
