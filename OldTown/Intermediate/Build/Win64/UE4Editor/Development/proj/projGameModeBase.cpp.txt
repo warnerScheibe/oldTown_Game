@@ -1,0 +1,7 @@
+C:\Users\Warner\Desktop\oldTown_Game\proj\Intermediate\Build\Win64\UE4Editor\Development\proj\Definitions.proj.h
+C:\Users\Warner\Desktop\oldTown_Game\proj\Source\proj\projGameModeBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Warner\Desktop\oldTown_Game\proj\Intermediate\Build\Win64\UE4Editor\Inc\proj\projGameModeBase.generated.h
